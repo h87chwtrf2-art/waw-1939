@@ -1,4 +1,3 @@
-WORLD AT WAR 1939 챕터형 사단장 시뮬레이터 v3.0
-index.html 파일 하나로 아이폰 브라우저에서 실행할 수 있습니다.
-Github Pages 저장소 최상위의 index.html 파일을 교체하세요.
-초기 프로토타입: 지도와 국경은 단순화된 게임용 구조이며 모든 지휘관 이름은 가상입니다.
+WORLD AT WAR 1939 v3.4
+GitHub Pages 저장소의 루트 index.html 파일을 이 ZIP의 index.html로 교체하세요.
+기존 v3.0 저장 데이터와는 분리되어 시작됩니다.
