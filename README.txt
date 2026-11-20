@@ -1,3 +1,4 @@
-WORLD AT WAR 1939 - Commander v2.1
-Map flags and commander labels. Upload index.html to GitHub Pages root.
-Compatible with v2.0 save data.
+WORLD AT WAR 1939 챕터형 사단장 시뮬레이터 v3.0
+index.html 파일 하나로 아이폰 브라우저에서 실행할 수 있습니다.
+Github Pages 저장소 최상위의 index.html 파일을 교체하세요.
+초기 프로토타입: 지도와 국경은 단순화된 게임용 구조이며 모든 지휘관 이름은 가상입니다.
