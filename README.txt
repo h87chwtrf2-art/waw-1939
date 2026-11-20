@@ -1,11 +1,14 @@
-WORLD AT WAR 1939 Web Prototype v0.1
+WORLD AT WAR 1939 — v0.6 TEST BUILD
 
-1. Visit github.com and create a PUBLIC repository named waw-1939.
-2. Upload index.html and manifest.webmanifest to the repository root (Add file > Upload files).
-3. Go to Settings > Pages > Build and deployment > Deploy from a branch, main / (root) > Save.
-4. Wait for deployment and open https://YOUR-USERNAME.github.io/waw-1939/
-5. On iPhone Safari Share > Add to Home Screen > Open as Web App.
+아이폰 GitHub Pages 업데이트:
+1. 기존 GitHub 저장소 waw-1939 열기.
+2. Add file > Upload files 선택.
+3. 이 ZIP 압축 해제 폴더의 index.html만 선택하여 업로드.
+4. Commit changes 눌러 기존 index.html을 교체.
+5. Pages 사이트 새로고침. 변경사항 반영에는 약간의 시간이 걸릴 수 있음.
 
-Game is a simplified fictional regional map inspired by WWII, not real geographic borders.
-Save data uses localStorage, can be deleted if the browser's site data is cleared.
-No external libraries or images. No server required.
+주의:
+- v0.6은 가상의 12지역 지도이며 역사적 1939 국경을 구현한 버전이 아닙니다.
+- 보병 실병력 숫자, 월간 턴, 장기 교전, 수비 조직력, 보급 경로, 증원, 철수, 기본 적군 AI 포함.
+- v0.1 저장 파일은 별도 키로 보존되며 v0.6에서 자동 승계하지 않습니다.
+- 이 ZIP의 index.html만 업데이트하면 기존 manifest.webmanifest는 그대로 사용할 수 있습니다.
