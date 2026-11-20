@@ -1,3 +1,4 @@
-WORLD AT WAR 1939 v3.4
-GitHub Pages 저장소의 루트 index.html 파일을 이 ZIP의 index.html로 교체하세요.
-기존 v3.0 저장 데이터와는 분리되어 시작됩니다.
+WORLD AT WAR 1939 v3.5
+GitHub Pages: 루트의 index.html을 교체하세요.
+이름 등록, 날짜 시작 화면, 참모회의 추천, 전장 지도와 전체 지도, 연대 선택, 전투 중간 보고, 월간 결산.
+기존 v3.4 저장 데이터와 분리됩니다.
